@@ -1,0 +1,69 @@
+1664355763505	geckodriver	INFO	Listening on 127.0.0.1:53928
+1664355766555	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53929" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Asus\\AppData\\Local\\Temp\\rust_mozprofileQPS8Gc"
+1664355766975	Marionette	INFO	Marionette enabled
+1664355766980	Marionette	INFO	Listening on port 53938
+WebDriver BiDi listening on ws://localhost:53929
+Read port: 53938
+1664355767088	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Asus\\AppData\\Local\\Temp\\rust_mozprofileQPS8Gc\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53929/devtools/browser/66164f47-289c-4935-afdf-b84715ccd1aa
+1664355771931	Marionette	INFO	Stopped listening on port 53938
+[Parent 5688, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 5688, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1664355858239	geckodriver	INFO	Listening on 127.0.0.1:53980
+1664355861305	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53981" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Asus\\AppData\\Local\\Temp\\rust_mozprofileXGfX2a"
+1664355861662	Marionette	INFO	Marionette enabled
+1664355861668	Marionette	INFO	Listening on port 53992
+WebDriver BiDi listening on ws://localhost:53981
+Read port: 53992
+1664355861887	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Asus\\AppData\\Local\\Temp\\rust_mozprofileXGfX2a\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53981/devtools/browser/afb97983-93d6-4ffe-a7ab-da768ad58b7f
+JavaScript warning: https://www.apple.com/metrics/ac-target/latest/ac-target.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1664355868505	Marionette	INFO	Stopped listening on port 53992
+1664356003231	geckodriver	INFO	Listening on 127.0.0.1:54034
+1664356006290	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54035" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Asus\\AppData\\Local\\Temp\\rust_mozprofilez6wo3C"
+1664356006616	Marionette	INFO	Marionette enabled
+1664356006620	Marionette	INFO	Listening on port 54044
+WebDriver BiDi listening on ws://localhost:54035
+Read port: 54044
+1664356006902	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Asus\\AppData\\Local\\Temp\\rust_mozprofilez6wo3C\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54035/devtools/browser/23a93af9-4d52-493b-a8bb-f25397d66dc3
+JavaScript warning: https://www.apple.com/metrics/ac-target/latest/ac-target.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1664356016990	Marionette	INFO	Stopped listening on port 54044
+1664356119979	geckodriver	INFO	Listening on 127.0.0.1:54096
+1664356123021	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54097" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Asus\\AppData\\Local\\Temp\\rust_mozprofiletErO0D"
+1664356123381	Marionette	INFO	Marionette enabled
+1664356123386	Marionette	INFO	Listening on port 54107
+WebDriver BiDi listening on ws://localhost:54097
+Read port: 54107
+1664356123519	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Asus\\AppData\\Local\\Temp\\rust_mozprofiletErO0D\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54097/devtools/browser/385b4678-cca4-42cf-b74c-453ab06d4c38
+JavaScript warning: https://www.apple.com/metrics/ac-target/latest/ac-target.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1664356131267	Marionette	INFO	Stopped listening on port 54107
+1664785658950	geckodriver	INFO	Listening on 127.0.0.1:56933
+1664785662031	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56934" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Asus\\AppData\\Local\\Temp\\rust_mozprofileLyZ85l"
+1664785662814	Marionette	INFO	Marionette enabled
+1664785662825	Marionette	INFO	Listening on port 56943
+Read port: 56943
+WebDriver BiDi listening on ws://127.0.0.1:56934
+1664785663114	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Asus\\AppData\\Local\\Temp\\rust_mozprofileLyZ85l\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56934/devtools/browser/16ad85f1-abf6-4b6f-b360-1b0c46b4ea21
+JavaScript warning: https://www.apple.com/metrics/ac-target/latest/ac-target.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1664785673785	Marionette	INFO	Stopped listening on port 56943
+1664868690359	geckodriver	INFO	Listening on 127.0.0.1:59054
+1664868693451	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59055" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Asus\\AppData\\Local\\Temp\\rust_mozprofilepT0a2X"
+1664868693937	Marionette	INFO	Marionette enabled
+1664868693946	Marionette	INFO	Listening on port 59064
+Read port: 59064
+WebDriver BiDi listening on ws://127.0.0.1:59055
+1664868694085	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Asus\\AppData\\Local\\Temp\\rust_mozprofilepT0a2X\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59055/devtools/browser/cf7ba5c2-064d-44aa-99dc-1f96170f3d46
+JavaScript warning: https://www.apple.com/metrics/ac-target/latest/ac-target.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.apple.com/metrics/ac-target/latest/ac-target.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1664868713004	Marionette	INFO	Stopped listening on port 59064
+[Parent 2844, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
