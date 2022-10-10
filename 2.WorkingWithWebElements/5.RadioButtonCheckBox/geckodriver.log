@@ -1,0 +1,109 @@
+1665388507146	geckodriver	INFO	Listening on 127.0.0.1:63427
+1665388510242	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63428" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Asus\\AppData\\Local\\Temp\\rust_mozprofileiU001M"
+1665388511236	Marionette	INFO	Marionette enabled
+1665388511247	Marionette	INFO	Listening on port 63439
+Read port: 63439
+WebDriver BiDi listening on ws://127.0.0.1:63428
+1665388511480	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Asus\\AppData\\Local\\Temp\\rust_mozprofileiU001M\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:63428/devtools/browser/21f9a4b4-f6eb-4008-be62-4e0386eab74b
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+1665389201521	Marionette	INFO	Stopped listening on port 63439
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 16356, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+\Temp\\rust_mozprofile3C2ShP"
+1665388841600	Marionette	INFO	Marionette enabled
+1665388841608	Marionette	INFO	Listening on port 63695
+Read port: 63695
+WebDriver BiDi listening on ws://127.0.0.1:63684
+1665388841824	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Asus\\AppData\\Local\\Temp\\rust_mozprofile3C2ShP\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:63684/devtools/browser/0a812982-d628-4ea1-9f3a-4c46ae8edcaf
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1665389203276	Marionette	INFO	Stopped listening on port 63695
+[Parent 8344, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:723
+te enabled
+1665389033675	Marionette	INFO	Listening on port 63992
+Read port: 63992
+WebDriver BiDi listening on ws://127.0.0.1:63982
+1665389033911	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Asus\\AppData\\Local\\Temp\\rust_mozprofileyAyCFn\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:63982/devtools/browser/6bd09396-2d5c-43d3-898a-a36df4f6f122
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+1665389204799	Marionette	INFO	Stopped listening on port 63992
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "64276" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Asus\\AppData\\Local\\Temp\\rust_mozprofilefEdI9K"
+1665389148653	Marionette	INFO	Marionette enabled
+1665389148665	Marionette	INFO	Listening on port 64303
+Read port: 64303
+WebDriver BiDi listening on ws://127.0.0.1:64276
+1665389148880	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Asus\\AppData\\Local\\Temp\\rust_mozprofilefEdI9K\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:64276/devtools/browser/879c9017-fdcb-41fa-9954-069f3b1d6baf
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1665389812142	Marionette	INFO	Stopped listening on port 64303
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+rofile" "C:\\Users\\Asus\\AppData\\Local\\Temp\\rust_mozprofileLPHkQ3"
+1665389255009	Marionette	INFO	Marionette enabled
+1665389255017	Marionette	INFO	Listening on port 64552
+Read port: 64552
+WebDriver BiDi listening on ws://127.0.0.1:64541
+1665389255228	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Asus\\AppData\\Local\\Temp\\rust_mozprofileLPHkQ3\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:64541/devtools/browser/1614d4c5-b641-4569-8e06-c18bf07df3ee
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+1665389813485	Marionette	INFO	Stopped listening on port 64552
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "64772" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Asus\\AppData\\Local\\Temp\\rust_mozprofilel8Fb8a"
+1665389424173	Marionette	INFO	Marionette enabled
+1665389424181	Marionette	INFO	Listening on port 64783
+Read port: 64783
+WebDriver BiDi listening on ws://127.0.0.1:64772
+1665389424375	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Asus\\AppData\\Local\\Temp\\rust_mozprofilel8Fb8a\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:64772/devtools/browser/5b82a0e6-e30d-4864-9c79-f497dc82e676
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+1665389814677	Marionette	INFO	Stopped listening on port 64783
+console.warn: services.settings: blocklists/addons-bloomfilters sync interrupted by shutdown
+console.warn: services.settings: blocklists/gfx sync interrupted by shutdown
+console.warn: services.settings: main/normandy-recipes-capabilities sync interrupted by shutdown
+console.warn: services.settings: main/fxmonitor-breaches sync interrupted by shutdown
+console.warn: services.settings: main/devtools-compatibility-browsers sync interrupted by shutdown
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+console.warn: services.settings: main/password-rules sync interrupted by shutdown
+console.warn: services.settings: main/websites-with-shared-credential-backends sync interrupted by shutdown
+console.warn: services.settings: main/search-telemetry-v2 sync interrupted by shutdown
+console.warn: services.settings: main/search-config sync interrupted by shutdown
+demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+1665389816537	Marionette	INFO	Stopped listening on port 65035
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "65368" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Asus\\AppData\\Local\\Temp\\rust_mozprofile0yv3qR"
+1665389735339	Marionette	INFO	Marionette enabled
+1665389735348	Marionette	INFO	Listening on port 65382
+Read port: 65382
+WebDriver BiDi listening on ws://127.0.0.1:65368
+1665389735558	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Asus\\AppData\\Local\\Temp\\rust_mozprofile0yv3qR\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:65368/devtools/browser/4f11f610-231f-4992-9e84-56017f8b623b
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+1665389869650	geckodriver	INFO	Listening on 127.0.0.1:49275
+1665389872734	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49276" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Asus\\AppData\\Local\\Temp\\rust_mozprofilecmHqNz"
+1665389873551	Marionette	INFO	Marionette enabled
+1665389873561	Marionette	INFO	Listening on port 49288
+Read port: 49288
+WebDriver BiDi listening on ws://127.0.0.1:49276
+1665389873783	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Asus\\AppData\\Local\\Temp\\rust_mozprofilecmHqNz\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:49276/devtools/browser/3e0df9cb-c59c-4a88-b63c-233597099fed
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
