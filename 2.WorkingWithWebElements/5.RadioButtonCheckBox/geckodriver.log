@@ -96,8 +96,9 @@ console.warn: SearchSettings: "get: No settings file exists, new profile?" (new 
 DevTools listening on ws://127.0.0.1:65368/devtools/browser/4f11f610-231f-4992-9e84-56017f8b623b
 console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
 console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
-1665389869650	geckodriver	INFO	Listening on 127.0.0.1:49275
-1665389872734	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49276" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Asus\\AppData\\Local\\Temp\\rust_mozprofilecmHqNz"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1665390126838	Marionette	INFO	Stopped listening on port 65382
+e-debugging-port" "49276" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Asus\\AppData\\Local\\Temp\\rust_mozprofilecmHqNz"
 1665389873551	Marionette	INFO	Marionette enabled
 1665389873561	Marionette	INFO	Listening on port 49288
 Read port: 49288
@@ -107,3 +108,5 @@ console.warn: SearchSettings: "get: No settings file exists, new profile?" (new 
 DevTools listening on ws://127.0.0.1:49276/devtools/browser/3e0df9cb-c59c-4a88-b63c-233597099fed
 console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
 console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+1665390125756	Marionette	INFO	Stopped listening on port 49288
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
