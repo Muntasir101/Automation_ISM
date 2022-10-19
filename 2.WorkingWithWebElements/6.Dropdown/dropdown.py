@@ -21,6 +21,8 @@ class Dropdown():
 
         driver.close()
 
+        driver.find_elements(By.ID, 'dropdown')
+
 
 test_obj = Dropdown()
 test_obj.dropdown()
