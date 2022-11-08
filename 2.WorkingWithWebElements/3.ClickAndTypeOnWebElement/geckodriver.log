@@ -10,3 +10,15 @@ DevTools listening on ws://127.0.0.1:51014/devtools/browser/ad926545-09e6-4f4f-8
 console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
 console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
 1664955111023	Marionette	INFO	Stopped listening on port 51025
+1666274082510	geckodriver	INFO	Listening on 127.0.0.1:65100
+1666274085594	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "65101" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Asus\\AppData\\Local\\Temp\\rust_mozprofileWndZ4A"
+1666274086092	Marionette	INFO	Marionette enabled
+1666274086098	Marionette	INFO	Listening on port 65111
+Read port: 65111
+WebDriver BiDi listening on ws://127.0.0.1:65101
+1666274086235	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Asus\\AppData\\Local\\Temp\\rust_mozprofileWndZ4A\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:65101/devtools/browser/2c6de601-ba73-464a-9e4a-eb3bd9f7a54a
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+1666274109411	Marionette	INFO	Stopped listening on port 65111

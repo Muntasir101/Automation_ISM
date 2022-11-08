@@ -9,7 +9,7 @@ class ClickAndType():
         # Browser launch function
         # Step 1: launch the browser
         driver = webdriver.Firefox(
-            executable_path="/Drivers/geckodriver.exe")
+            executable_path="E:\\Ismail\\Projects\\Automation_ISM\\Drivers\\geckodriver.exe")
 
         # Step2 : Open Test URL
         driver.get("https://opensource-demo.orangehrmlive.com/web/index.php/auth/login")
