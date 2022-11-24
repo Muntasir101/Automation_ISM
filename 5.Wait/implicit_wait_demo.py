@@ -13,6 +13,7 @@ class ImplicitWait():
 
         # Step2 : Open Test URL
         driver.get("https://demo.opencart.com/index.php?route=account/login&language=en-gb")
+
         # ImplicitWait
         driver.implicitly_wait(100)
 

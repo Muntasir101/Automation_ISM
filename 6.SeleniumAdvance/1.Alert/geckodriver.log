@@ -1,0 +1,70 @@
+1668065480474	geckodriver	INFO	Listening on 127.0.0.1:52845
+1668065483554	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52846" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Asus\\AppData\\Local\\Temp\\rust_mozprofileyENhjG"
+1668065484104	Marionette	INFO	Marionette enabled
+1668065484113	Marionette	INFO	Listening on port 52857
+Read port: 52857
+WebDriver BiDi listening on ws://127.0.0.1:52846
+1668065484284	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Asus\\AppData\\Local\\Temp\\rust_mozprofileyENhjG\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52846/devtools/browser/9fc15f65-b6ec-4976-b364-39f1b0d12fd7
+1668065872505	Marionette	INFO	Stopped listening on port 52857
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "53103" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Asus\\AppData\\Local\\Temp\\rust_mozprofileVuAHNj"
+1668065696861	Marionette	INFO	Marionette enabled
+1668065696870	Marionette	INFO	Listening on port 53113
+Read port: 53113
+WebDriver BiDi listening on ws://127.0.0.1:53103
+1668065697055	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Asus\\AppData\\Local\\Temp\\rust_mozprofileVuAHNj\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53103/devtools/browser/6f4b271e-a233-4204-9da0-0261dd7bc7c1
+1668065721092	Marionette	INFO	Stopped listening on port 53113
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1668065841564	geckodriver	INFO	Listening on 127.0.0.1:53324
+1668065844643	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53325" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Asus\\AppData\\Local\\Temp\\rust_mozprofileNDZxOD"
+1668065845159	Marionette	INFO	Marionette enabled
+1668065845164	Marionette	INFO	Listening on port 53335
+Read port: 53335
+WebDriver BiDi listening on ws://127.0.0.1:53325
+1668065845323	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Asus\\AppData\\Local\\Temp\\rust_mozprofileNDZxOD\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53325/devtools/browser/28794965-2c49-4e19-8604-f3fbb4d8d6e4
+1668065860998	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1668065870404	Marionette	INFO	Stopped listening on port 53335
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1668065992432	geckodriver	INFO	Listening on 127.0.0.1:53575
+1668065995493	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53576" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Asus\\AppData\\Local\\Temp\\rust_mozprofileLtjmAP"
+1668065995882	Marionette	INFO	Marionette enabled
+1668065995887	Marionette	INFO	Listening on port 53587
+Read port: 53587
+WebDriver BiDi listening on ws://127.0.0.1:53576
+1668065995985	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Asus\\AppData\\Local\\Temp\\rust_mozprofileLtjmAP\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53576/devtools/browser/69a94d07-2348-46c1-89cf-c1f67d9aed85
+1668066011307	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1668075083675	Marionette	INFO	Stopped listening on port 53587
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+" "localhost" "-no-remote" "-profile" "C:\\Users\\Asus\\AppData\\Local\\Temp\\rust_mozprofile9FTrYC"
+1668066382546	Marionette	INFO	Marionette enabled
+1668066382551	Marionette	INFO	Listening on port 53958
+WebDriver BiDi listening on ws://127.0.0.1:53947
+Read port: 53958
+1668066382845	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Asus\\AppData\\Local\\Temp\\rust_mozprofile9FTrYC\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53947/devtools/browser/83673c4c-8b71-4351-9427-db31d0615223
+1668066397989	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1668066400553	Marionette	INFO	Stopped listening on port 53958
+[Parent 10460, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 10460, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167

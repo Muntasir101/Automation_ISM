@@ -102,8 +102,9 @@ Read port: 57116
 1667897615745	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
 console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Asus\\AppData\\Local\\Temp\\rust_mozprofilef57x7v\\search.json.mozlz4", (void 0)))
 DevTools listening on ws://127.0.0.1:57107/devtools/browser/5c3a5ec9-2c54-4ffb-a92d-64126c556550
-1667897729838	geckodriver	INFO	Listening on 127.0.0.1:57171
-1667897732910	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57172" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Asus\\AppData\\Local\\Temp\\rust_mozprofile7PXV2G"
+1667898297716	Marionette	INFO	Stopped listening on port 57116
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "57172" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Asus\\AppData\\Local\\Temp\\rust_mozprofile7PXV2G"
 1667897733334	Marionette	INFO	Marionette enabled
 1667897733339	Marionette	INFO	Listening on port 57187
 Read port: 57187
@@ -111,8 +112,9 @@ WebDriver BiDi listening on ws://127.0.0.1:57172
 1667897733440	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
 console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Asus\\AppData\\Local\\Temp\\rust_mozprofile7PXV2G\\search.json.mozlz4", (void 0)))
 DevTools listening on ws://127.0.0.1:57172/devtools/browser/4ffa8ad0-ee0b-4201-8f10-fb24a79e5b3a
-1667897816243	geckodriver	INFO	Listening on 127.0.0.1:57477
-1667897819298	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57478" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Asus\\AppData\\Local\\Temp\\rust_mozprofile5KvgcI"
+1667898297029	Marionette	INFO	Stopped listening on port 57187
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "57478" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Asus\\AppData\\Local\\Temp\\rust_mozprofile5KvgcI"
 1667897819644	Marionette	INFO	Marionette enabled
 1667897819649	Marionette	INFO	Listening on port 57487
 WebDriver BiDi listening on ws://127.0.0.1:57478

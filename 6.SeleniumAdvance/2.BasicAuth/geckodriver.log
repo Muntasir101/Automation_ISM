@@ -1,0 +1,21 @@
+1669278592165	geckodriver	INFO	Listening on 127.0.0.1:59376
+1669278595260	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59377" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Asus\\AppData\\Local\\Temp\\rust_mozprofile9nc5HM"
+1669278595762	Marionette	INFO	Marionette enabled
+1669278595768	Marionette	INFO	Listening on port 59386
+Read port: 59386
+WebDriver BiDi listening on ws://127.0.0.1:59377
+1669278595925	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Asus\\AppData\\Local\\Temp\\rust_mozprofile9nc5HM\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59377/devtools/browser/577b8da6-5455-4330-837d-c549388aa0d1
+1669278613015	Marionette	INFO	Stopped listening on port 59386
+1669278637315	geckodriver	INFO	Listening on 127.0.0.1:59444
+1669278640369	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59445" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Asus\\AppData\\Local\\Temp\\rust_mozprofileoIbe1W"
+1669278640721	Marionette	INFO	Marionette enabled
+1669278640727	Marionette	INFO	Listening on port 59455
+WebDriver BiDi listening on ws://127.0.0.1:59445
+Read port: 59455
+1669278640936	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Asus\\AppData\\Local\\Temp\\rust_mozprofileoIbe1W\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59445/devtools/browser/df4d3835-bd34-46dd-b684-35303cedf01e
+1669278655724	Marionette	INFO	Stopped listening on port 59455
+[Parent 20976, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
